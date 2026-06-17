@@ -1,0 +1,32 @@
+{
+  "title": "Harness Engineering: Claude Code 설계 가이드",
+  "description": "Claude Code 소스에서 AI 코딩 시스템 공학 원칙을 추출한 책의 한국어판입니다.",
+  "author": "OpenAI Codex",
+  "language": "ko",
+  "root": ".",
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
+  },
+  "plugins": [],
+  "pluginsConfig": {},
+  "readme_path": "index.md",
+  "release_date": "2026-04-01",
+  "draft_label": "초안",
+  "front_page_heading": "들어가며",
+  "cover_image": "assets/cover-wxb-en.svg",
+  "cover_alt": "표지: Harness Engineering — Claude Code 설계 가이드",
+  "outputs": {
+    "print_html": "exported/book1-claude-code-ko-print.html",
+    "pdf": "exported/book1-claude-code-ko.pdf",
+    "print_pdf": "exported/book1-claude-code-ko-print.pdf",
+    "book_pdf": "exported/book1-claude-code-ko-book.pdf"
+  },
+  "title_page_lines": [
+    "에이전트를 쓰는 법에서, 에이전트 PoC를 만드는 법으로",
+    "https://agentway.dev"
+  ],
+  "pdf": {
+    "documentclass": "book"
+  }
+}
